@@ -1,2 +1,2 @@
 # instructthewomen
-Desafios e projetos desenvolvidos no programa Instruct the Women, realizado pela WoMakersCode em pareceria com a Instruct.
+Desafios e projetos desenvolvidos no programa Instruct the Women, realizado pela WoMakersCode em parceria com a Instruct.
